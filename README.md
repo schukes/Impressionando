@@ -3,7 +3,7 @@
   <title>😍😍</title>
   <style>
     body {
-      background-color: black;
+      background-color: pink;
       text-align: center;
       font-family: Arial, sans-serif;
     }
