@@ -37,7 +37,7 @@
   </style>
 </head>
 <body>
-  <h1>Oi Tigrinho, passando pra te dizer que;</h1>
+  <h1>Oi meu amor, passando pra te dizer que:</h1>
   <p id="mensagem"></p>
   <button id="botao" onclick="impressionar()">Clique aqui!</button>
 
