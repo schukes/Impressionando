@@ -1,10 +1,9 @@
-<!DOCTYPE html>
 <html>
 <head>
   <title>Impressionando uma Garota</title>
   <style>
     body {
-      background-color: pink;
+      background-color: black;
       text-align: center;
       font-family: Arial, sans-serif;
     }
