@@ -3,19 +3,19 @@
   <title>😍😍</title>
   <style>
     body {
-      background-color: pink;
+      background-color: rgb(255, 210, 217);
       text-align: center;
       font-family: Arial, sans-serif;
     }
     
     h1 {
-      color: white;
+      color: rgb(0, 0, 0);
       font-size: 40px;
       margin-top: 200px;
     }
     
     #mensagem {
-      color: white;
+      color: rgb(3, 3, 3);
       font-size: 24px;
       margin-top: 50px;
     }
@@ -46,10 +46,11 @@
       "Você é incrível! 😍",
       "Seu sorriso ilumina o meu dia! 😊",
       "Você é muito linda! 😘",
-      "Amo passar o tempo com você, inclusive o tempo voa! ❤️",
+      "Amo passar o tempo com você, inclusive o tempo voa! ❤️",>>
       "Seu charme é irresistível! 😉",
       "Você é inteligente e encantadora! 🤓",
-      "Seu gento raiz me supreende! 💓",
+      "Seu jeito raiz me supreende! 💓",
+      "Agora todo café que tomo lembro da canela kkk 😊",
       "Sua presença torna tudo melhor! ✨",
       "Não consigo parar de pensar em você! 💭"
     ];
