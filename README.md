@@ -37,7 +37,7 @@
   </style>
 </head>
 <body>
-  <h1>Oi meu amor, passando pra te dizer que:</h1>
+  <h1>Oi Kau, passando pra te dizer que:</h1>
   <p id="mensagem"></p>
   <button id="botao" onclick="impressionar()">Clique aqui!</button>
 
@@ -45,11 +45,11 @@
     var elogios = [
       "Você é incrível! 😍",
       "Seu sorriso ilumina o meu dia! 😊",
-      "Você é a pessoa mais bonita que já conheci! 😘",
-      "Quero passar o tempo com você! ❤️",
+      "Você é muito linda! 😘",
+      "Amo passar o tempo com você, inclusive o tempo voa! ❤️",
       "Seu charme é irresistível! 😉",
       "Você é inteligente e encantadora! 🤓",
-      "Você faz meu coração bater mais forte! 💓",
+      "Seu gento raiz me supreende! 💓",
       "Sua presença torna tudo melhor! ✨",
       "Não consigo parar de pensar em você! 💭"
     ];
