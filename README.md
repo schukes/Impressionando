@@ -52,7 +52,7 @@
       "Seu jeito raiz me supreende! 💓",
       "Agora todo café que tomo lembro da canela kkk 😊",
       "Sua presença torna tudo melhor! ✨",
-      "Não consigo parar de pensar em você! 💭"
+      "Não consigo parar de pensar em você!!! 💭"
     ];
 
     var contador = 0;
