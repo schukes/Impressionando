@@ -3,13 +3,13 @@
   <title>😍😍</title>
   <style>
     body {
-      background-color: rgb(255, 210, 217);
+      background-color: rgb(255, 255, 255);
       text-align: center;
       font-family: Arial, sans-serif;
     }
     
     h1 {
-      color: rgb(0, 0, 0);
+      color: rgb(255, 255, 255);
       font-size: 40px;
       margin-top: 200px;
     }
