@@ -46,7 +46,7 @@
       "Você é incrível! 😍",
       "Seu sorriso ilumina o meu dia! 😊",
       "Você é muito linda! 😘",
-      "Amo passar o tempo com você, inclusive o tempo voa! ❤️",>>
+      "Amo passar o tempo com você, inclusive o tempo voa! ❤️",
       "Seu charme é irresistível! 😉",
       "Você é inteligente e encantadora! 🤓",
       "Seu jeito raiz me supreende! 💓",
