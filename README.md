@@ -58,18 +58,20 @@
     var contador = 0;
 
     function impressionar() {
-      var mensagemElemento = document.getElementById("mensagem");
-      var botaoElemento = document.getElementById("botao");
+  var mensagemElemento = document.getElementById("mensagem");
+  var botaoElemento = document.getElementById("botao");
 
-      if (contador < elogios.length) {
-        mensagemElemento.innerHTML = elogios[contador];
-        contador++;
-      }
+  if (contador < elogios.length) {
+    mensagemElemento.innerHTML = elogios[contador];
+    contador++;
+  }
 
-      if (contador === elogios.length) {
-        botaoElemento.style.display = "none";
-      }
-    }
-  </script>
+  // Mover a verificação para ocultar o botão aqui
+  if (contador >= elogios.length) {
+    botaoElemento.style.display = "none";
+  }
+}
+
+</script>
 </body>
 </html>
