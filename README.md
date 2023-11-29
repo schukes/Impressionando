@@ -3,19 +3,19 @@
   <title>😍😍</title>
   <style>
     body {
-      background-color: rgb(255, 255, 255);
+      background-color: pink;
       text-align: center;
       font-family: Arial, sans-serif;
     }
     
     h1 {
-      color: rgb(255, 255, 255);
+      color: white;
       font-size: 40px;
       margin-top: 200px;
     }
     
     #mensagem {
-      color: rgb(255, 255, 255);
+      color: white;
       font-size: 24px;
       margin-top: 50px;
     }
