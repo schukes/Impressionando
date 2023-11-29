@@ -15,7 +15,7 @@
     }
     
     #mensagem {
-      color: rgb(3, 3, 3);
+      color: rgb(255, 255, 255);
       font-size: 24px;
       margin-top: 50px;
     }
